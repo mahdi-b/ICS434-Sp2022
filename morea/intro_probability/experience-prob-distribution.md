@@ -20,5 +20,5 @@ Answer the questions in the following [Jupyter notebook](resources/experience-pr
 ## Submission instructions
 
 By the time and date indicated on the Schedule page, you must have:
-  * Submit the [form](https://www.cognitoforms.com/MoseliMotsoehli/IntroduceYourself) confirming that you completed the experience.
+  * Submit the [form](https://www.cognitoforms.com/MoseliMotsoehli/ProbabilityDistribution) confirming that you completed the experience.
 
