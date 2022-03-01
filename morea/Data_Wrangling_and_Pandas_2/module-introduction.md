@@ -7,7 +7,7 @@ morea_outcomes:
   - outcome-wrangling-2
 morea_readings:
   - reading-chapter-2
-  - reading-notebooks
+  - reading-notebooks-module-4
 morea_experiences:
 morea_assessments:
 morea_type: module

@@ -10,7 +10,7 @@ published: true
 ICS 434 is a first introduction to the most foundational tasks, packages, and analyses in data science.
 
 ## Links to Forms
-Links to the attendance and experiences forms can be found [here](/ICS434-Sp2022/links)
+Attendance form can be accessed [here](https://www.cognitoforms.com/MahdiBelcaid/AttendanceICS434)
 
 ## Who should take this course
 
