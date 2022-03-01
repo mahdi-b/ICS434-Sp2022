@@ -15,7 +15,7 @@ morea_labels:
 
 
 * [Non-parametric Hypothesis Testing Bootstap Continuous](resources/18_non_parametric_normal.ipynb)
-* [Non-parametric Hypothesis Testing - binary and multi-class](resources/19_non_parametric_multi_categories.ipynb)
+* [Non-parametric Hypothesis Testing - Binary and Multi-Class](resources/19_non_parametric_multi_categories.ipynb)
 * [Effect Size](resources/)
 
-* [Fundamental test]()
+* [Fundamental Statistical Tests]()
