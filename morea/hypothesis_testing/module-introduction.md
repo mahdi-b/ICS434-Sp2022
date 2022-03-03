@@ -9,8 +9,9 @@ morea_readings:
   - reading-t-test
   - reading-anova
   - reading-chi-square
+  - reading-module-material-6
 morea_experiences:
-  - experience-non-parametric-normal-test
+  - experience-hypothesis-testing
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/images/introduction.jpg
