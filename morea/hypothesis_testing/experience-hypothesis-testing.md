@@ -17,6 +17,6 @@ Answer the questions in the following [Jupyter notebook](resources/hypothesis_te
 
 ## Submission instructions
 
- * Submit the [form]() confirming that you completed the experience.
+ * Submit the [form](https://www.cognitoforms.com/MoseliMotsoehli/HypothesisTesting) confirming that you completed the experience.
 
 
