@@ -1,7 +1,7 @@
 ---
-morea_id: reading-module-material-6
+morea_id: reading-module-material-7
 morea_type: reading
-title: "Hypothesis testing module material"
+title: "Parameter Estimation"
 published: True
 morea_summary: "Slides and Jupyter Notebooks"
 morea_sort_order: 20
@@ -11,11 +11,9 @@ morea_labels:
 
 
 
-### Intro course material
+### Notebooks
 
 * [Non-parametric Hypothesis Testing Bootstap Continuous](resources/18_non_parametric_normal.ipynb)
 * [Non-parametric Hypothesis Testing - Binary and Multi-Class](resources/19_non_parametric_multi_categories.ipynb)
 * [Effect Size: An Intuition](resources/19_effect_size.ipynb)
 
-* Effect Size - TBD
-* Fundamental Statistical Tests - TBD
