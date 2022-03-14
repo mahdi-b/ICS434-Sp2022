@@ -2,7 +2,7 @@
 title: "Hypothesis Testing"
 published: true
 morea_coming_soon: false
-morea_id: tests
+morea_id: param-estimation
 morea_outcomes:
   - outcome-hypothesis-testing
 morea_readings:
