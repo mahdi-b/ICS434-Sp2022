@@ -13,9 +13,6 @@ morea_labels:
 
 ### Notebooks
 
-20_effect_size.ipynb                         22_poisson_distribution.ipynb                23_param_estimation_bootstrap.slides.html
-21_param_estimation_intro.ipynb              22_poisson_distribution.slides.html          24_param_esitmation_maximum_likelihood.ipynb
-21_param_estimation_intro.slides.html        23_param_estimation_bootstrap.ipynb          25_Approximate_Bayesian_for_Estimation.ipynb
 
 * [Param Estimation: Intro](resources/21_param_estimation_intro.ipynb)
 * [Poisson Distribution](resources/22_poisson_distribution.ipynb)
