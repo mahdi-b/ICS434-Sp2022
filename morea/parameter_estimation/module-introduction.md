@@ -1,5 +1,5 @@
 ---
-title: "Hypothesis Testing"
+title: "Parameter Estimation"
 published: true
 morea_coming_soon: false
 morea_id: param-estimation
