@@ -4,7 +4,7 @@ published: true
 morea_coming_soon: false
 morea_id: param-estimation
 morea_outcomes:
-  - outcome-hypothesis-testing
+  - outcome-parameter-estimation
 morea_readings:
   - reading-module-material-7
 morea_experiences:
