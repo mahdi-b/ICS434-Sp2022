@@ -1,5 +1,5 @@
 ---
-morea_id: reading-module-material-8
+morea_id: reading-clustering
 morea_type: reading
 title: "Clustering module material"
 published: True

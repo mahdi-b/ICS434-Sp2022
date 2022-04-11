@@ -1,5 +1,5 @@
 ---
-title: "Clustering"
+title: "Time Series"
 published: true
 morea_coming_soon: false
 morea_id: time-series

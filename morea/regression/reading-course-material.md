@@ -11,7 +11,6 @@ morea_labels:
 
 ### Intro course material
 
-* [Non Linear Regression](resources/non_linear_regression.ipynb)
 * [Linear Regression](resources/linear_regression.ipynb)
-
+* [Non Linear Regression](resources/non_linear_regression.ipynb)
 

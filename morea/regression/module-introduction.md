@@ -17,4 +17,4 @@ morea_labels: tests
 morea_sort_order: 90
 ---
 
-Introduction to Clustering
+Introduction to Regression
