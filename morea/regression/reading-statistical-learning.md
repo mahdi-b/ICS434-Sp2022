@@ -1,7 +1,7 @@
 ---
-morea_id: reading-chi-square
+morea_id: reading-regression
 morea_type: reading
-title: "Introduction to Chi-Square Test"
+title: "Intro to Simple and Multiple Linear Regression"
 published: True
 morea_summary: ""
 morea_sort_order: 10
