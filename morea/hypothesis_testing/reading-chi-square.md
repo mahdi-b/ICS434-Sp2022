@@ -11,4 +11,4 @@ morea_labels:
 
 # Introduction to Chi-Square Test
 
-...
+(Chi-Square Test)[https://www.bmj.com/about-bmj/resources-readers/publications/statistics-square-one/8-chi-squared-tests]
