@@ -5,6 +5,7 @@ morea_coming_soon: false
 morea_id: time-series
 morea_outcomes:
 morea_readings:
+  - reading-module-time-series
 morea_experiences:
 morea_assessments:
 morea_type: module
