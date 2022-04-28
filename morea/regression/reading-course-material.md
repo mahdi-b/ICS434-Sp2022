@@ -13,4 +13,3 @@ morea_labels:
 
 * [Linear Regression](resources/linear_regression.ipynb)
 * [Non Linear Regression](resources/non_linear_regression.ipynb)
-

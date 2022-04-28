@@ -12,5 +12,5 @@ morea_labels:
 ### Intro course material
 
 * [Regression-Based Time Series](resources/time_series_regression_based.ipynb)
-
+* [Exponential Smoothing](resources/Exponential_Smoothing.ipynb)
 
