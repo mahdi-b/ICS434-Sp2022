@@ -15,6 +15,9 @@ morea_labels:
 * [cross Validation](resources/cross_validation.ipynb)
 * [Evaluating Classification](resources/Evaluating_classification.ipynb)
 
+### Additional reading
+* [Advanced Scikit](https://nostarch.com/download/DeepLearning_Bonus.pdf) -- Chapter B1 
+
 Pleast note that some of the images may be missing and can be obtained here:
 [https://github.com/mahdi-b/ICS434-Sp2022/tree/main/morea](https://github.com/mahdi-b/ICS434-Sp2022/tree/main/morea/ML_intro)
 

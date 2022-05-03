@@ -1,7 +1,7 @@
 ---
 morea_id: reading-module-ml
 morea_type: reading
-title: "Time Series module material"
+title: "Machine learning module material"
 published: True
 morea_summary: "Slides and Jupyter Notebooks"
 morea_sort_order: 20
