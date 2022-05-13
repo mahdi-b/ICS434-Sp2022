@@ -1,0 +1,21 @@
+moreaEventData = [
+  {title: "Simulating a Non-Parametric Test Using Bootstrapping", url: "/ICS434-Sp2022/morea/hypothesis_testing/experience-hypothesis-testing.html", start: "2022-03-16", end: "2022-03-16"},
+  {title: "Hypothesis Testing", url: "/ICS434-Sp2022/modules/tests", start: "2022-02-23", end: "2022-03-02"},
+  {title: "Time Series", url: "/ICS434-Sp2022/modules/time-series", start: "2022-04-06", end: "2022-04-04"},
+  {title: "Machine Learning Overview", url: "/ICS434-Sp2022/modules/ml", start: "2022-04-25", end: "2022-05-04"},
+  {title: "Reproducing a plot", url: "/ICS434-Sp2022/morea/Data%20Viz/experience-plot-notebook.html", start: "2022-02-09", end: "2022-02-9"},
+  {title: "Data Visualization - Brief Introduction", url: "/ICS434-Sp2022/modules/vis", start: "2022-01-26", end: "2022-01-31"},
+  {title: "Probability Distributions", url: "/ICS434-Sp2022/morea/intro_probability/experience-prob-distribution.html", start: "2022-02-21", end: "2022-02-21"},
+  {title: "Introduction to Probability Models", url: "/ICS434-Sp2022/modules/intro_prob", start: "2022-02-07", end: "2022-02-20"},
+  {title: "Linear Regression", url: "/ICS434-Sp2022/modules/regression", start: "2022-04-06", end: "2022-04-11"},
+  {title: "Graph data with Pandas", url: "/ICS434-Sp2022/morea/Data%20Wrangling%20and%20Pandas/experience-exploratory_data_analysis.html", start: "2022-01-31", end: "2022-01-31"},
+  {title: "Data Wrangling - Foundations", url: "/ICS434-Sp2022/modules/pandas-1", start: "2022-01-17", end: "2022-01-23"},
+  {title: "Graph data with Pandas", url: "/ICS434-Sp2022/morea/Data%20Wrangling%20and%20Pandas/experience-read-explore-data.html", start: "2022-01-24", end: "2022-01-24"},
+  {title: "Parameter Estimation", url: "/ICS434-Sp2022/modules/param-estimation", start: "2022-03-02", end: "2022-03-09"},
+  {title: "Python tutorial", url: "/ICS434-Sp2022/morea/introduction/experience-optional-python-tutorial.html", start: "2022-01-17", end: "2022-01-17"},
+  {title: "Development environment", url: "/ICS434-Sp2022/morea/introduction/experience-install-python.html", start: "2022-01-17", end: "2022-01-17"},
+  {title: "Introduce yourself", url: "/ICS434-Sp2022/morea/introduction/experience-introduce-yourself.html", start: "2022-01-17", end: "2022-01-17"},
+  {title: "Introduction to ICS 434", url: "/ICS434-Sp2022/modules/introduction", start: "2022-01-10", end: "2022-01-16"},
+  {title: "Clustering", url: "/ICS434-Sp2022/modules/clustering", start: "2022-04-06", end: "2022-04-11"},
+  {title: "Data Wrangling - Advanced", url: "/ICS434-Sp2022/modules/pandas-2", start: "2022-01-31", end: "2022-02-07"}
+]
