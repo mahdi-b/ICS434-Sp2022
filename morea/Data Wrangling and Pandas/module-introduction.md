@@ -10,7 +10,7 @@ morea_readings:
   - reading-notebooks
 morea_experiences:
   - experience-plot-2-3
-  - experience-exploratory_data_analysis.md
+  - experience-exploratory_data_analysis
 morea_assessments:
 morea_type: module
 morea_icon_url: /morea/images/introduction.jpg

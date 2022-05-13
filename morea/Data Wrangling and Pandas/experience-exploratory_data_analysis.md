@@ -1,7 +1,7 @@
 ---
 title: "Graph data with Pandas"
 published: true
-morea_id: experience-exploratory-data-analysis
+morea_id: experience-exploratory_data_analysis
 morea_type: experience
 morea_summary: "Assess your understanding of the exploratory data analysis section"
 morea_sort_order: 3
